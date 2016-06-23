@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -40,4 +41,9 @@ public class Main
 
         return array[array.length/2];
     }
+=======
+
+public class Main {
+
+>>>>>>> branch 'master' of https://github.com/mjaysonnn/2587.git
 }
